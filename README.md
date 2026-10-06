@@ -6,7 +6,6 @@ An LSTM that learns note-sequence patterns from piano MIDI and generates new mus
 
 | Deliverable | File |
 |---|---|
-| Two-page write-up (PDF) | [`docs/Project_Writeup.pdf`](docs/Project_Writeup.pdf) |
 | Full technical report (PDF) | [`docs/Project_Report.pdf`](docs/Project_Report.pdf) |
 | Presentation deck | [`docs/Music_Generation_ML_Presentation.pptx`](docs/Music_Generation_ML_Presentation.pptx) |
 
